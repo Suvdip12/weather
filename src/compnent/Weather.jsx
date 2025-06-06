@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './Weather.css'
+import './weather.css'
 import weathericon from '../assets/cloud.png'
 import clearicon from '../assets/clear.png'
 import drizzleicon from '../assets/drizzle.png'
