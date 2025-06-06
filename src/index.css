@@ -8,6 +8,9 @@
 body {
   min-height: 100vh;
   height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  position: relative;
   display: grid;
   background: linear-gradient(45deg, #2f4680, #500ae4);
 }
